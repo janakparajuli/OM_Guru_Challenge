@@ -1,2 +1,2 @@
 #OM Guru Climate Challenge
-Map showing amenities such as parks, urban features, and greeneries using OSM data
+Code to map showing amenities such as parks, urban features, and greeneries using OSM data
